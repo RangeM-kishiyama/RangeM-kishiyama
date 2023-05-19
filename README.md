@@ -8,6 +8,8 @@ now.... please translate, lol.
 </p>
 
 <h1 align="center">skills</h1>
+<p></p>
+
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/django-004d1d?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
 [![Flask](https://img.shields.io/badge/flask-red?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/2.3.x/)
@@ -21,4 +23,4 @@ now.... please translate, lol.
 [![CTF](https://img.shields.io/badge/javascript-red?style=for-the-badge&logo=javascript)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 <h1 align="center">Projects</h1>
-RGM{FLAG}:[https://discord.gg/bD8xsZ4Cqx](https://discord.gg/bD8xsZ4Cqx)
+RGM{FLAG}:<a href="https://discord.gg/bD8xsZ4Cqx">https://discord.gg/bD8xsZ4Cqx</a>
