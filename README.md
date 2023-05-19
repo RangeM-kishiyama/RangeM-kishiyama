@@ -23,4 +23,6 @@ now.... please translate, lol.
 [![CTF](https://img.shields.io/badge/javascript-red?style=for-the-badge&logo=javascript)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 
 <h1 align="center">Projects</h1>
+<p align="center">
 RGM{FLAG}:<a href="https://discord.gg/bD8xsZ4Cqx">https://discord.gg/bD8xsZ4Cqx</a>
+</p>
