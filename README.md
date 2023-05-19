@@ -2,7 +2,7 @@
 <p align="center">
 RangeM is one of Japanese developers, sometimes CTFer.<br>
 <a href="https://ctftime.org/team/225597">CTFtime</a><br>
-<a hred="https://rangem-kishiyama.github.io">My Blogs</a><br>
+<a href="https://rangem-kishiyama.github.io">My Blogs</a><br>
 I published some Japanese articles and blogs.<br><br>
 now.... please translate, lol.
 </p>
