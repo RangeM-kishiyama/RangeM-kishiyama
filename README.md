@@ -27,7 +27,9 @@ now.... please translate, lol.
 RGM{FLAG}:<a href="https://discord.gg/bD8xsZ4Cqx">https://discord.gg/bD8xsZ4Cqx</a>
 </p>
 <h1 align="center">Accounts</h1>
+<p align="center">
 <a href="https://discord.com/users/1053664531387269130"><img src="https://img.shields.io/badge/discord-000095?style=for-the-badge&logo=discord" alt="discord"></a>
 <a href=""><img src="https://img.shields.io/badge/Element-black?style=for-the-badge&logo=element" alt="element"></a>
 <a href="https://ctftime.org/team/225597"><img src="https://img.shields.io/badge/ctftime-red?style=for-the-badge" alt="ctftime"></a>
 <a href="https://rangem-kishiyama.github.io"><img src="https://img.shields.io/badge/blog-gray?style=for-the-badge" alt="blog"></a>
+</p>
